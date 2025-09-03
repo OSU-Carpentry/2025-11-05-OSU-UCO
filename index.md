@@ -20,7 +20,38 @@ collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g.
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
-
+<a id="osu_carp" href="https://info.library.okstate.edu/carpentry">OSU Registration Page</a>
+<style>
+#osu_carp {
+  background: #FF7300;
+  border: 1px solid #FF7300;
+  border-radius: 4px;
+  color: #080808;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#osu_carp:hover {
+  opacity: 0.9;
+}
+</style>
+<br>
+<a id="uco_carp" href="https://library.uco.edu/carpentries">UCO Registration Page</a>
+<style>
+#uco_carp {
+  background: #FFCC00;
+  border: 1px solid #FFCC00;
+  border-radius: 4px;
+  color: #080808;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#uco_carp:hover {
+  opacity: 0.9;
+}
+</style>
+<br>
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
